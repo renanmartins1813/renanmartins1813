@@ -1,23 +1,23 @@
-<img src="https://www.reshot.com/preview-assets/icons/GZPQ6VA2KN/stuffed-bear-GZPQ6VA2KN.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="Ursinho">
+<img src="https://www.reshot.com/preview-assets/icons/GZPQ6VA2KN/stuffed-bear-GZPQ6VA2KN.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Ursinho">
 <h1>Eai, bicho.</h1>
 
 <h2>Atualmente estou estudando e fazendo alguns projetos com React, Node e MongoDB.</h2>
 
 
-  <div align="center">
-    <a href="https://github.com/renanmartins1813">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmartins1813&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmartins1813&layout=compact&langs_count=7&theme=bear"/>
-  </div>
+<div align="left">
+  <a href="https://github.com/renanmartins1813">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmartins1813&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmartins1813&layout=compact&langs_count=7&theme=bear"/>
+</div>
     
-  <div style="display: inline_block"><br>
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/0SIGgMSETlsAAAAd/bear-dancing.gif?width=676&height=676">
-  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/0SIGgMSETlsAAAAd/bear-dancing.gif?width=676&height=676">
+</div>
 
  
   ##
