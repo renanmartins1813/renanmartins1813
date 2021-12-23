@@ -1,4 +1,4 @@
-<img src="https://www.reshot.com/preview-assets/icons/GZPQ6VA2KN/stuffed-bear-GZPQ6VA2KN.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Ursinho">
+<img src="https://www.reshot.com/preview-assets/icons/GZPQ6VA2KN/stuffed-bear-GZPQ6VA2KN.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="Ursinho">
 <h1>Eai, bicho.</h1>
 
 <h2>Atualmente estou estudando e fazendo alguns projetos com React, Node e MongoDB.</h2>
