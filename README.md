@@ -1,4 +1,5 @@
-<h1>Eai, bicho. <img scr="https://www.reshot.com/preview-assets/icons/GZPQ6VA2KN/stuffed-bear-GZPQ6VA2KN.svg" width="50"></h1>
+<img src="https://www.reshot.com/preview-assets/icons/GZPQ6VA2KN/stuffed-bear-GZPQ6VA2KN.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="Ursinho">
+<h1>Eai, bicho.</h1>
 
 <h2>Atualmente estou estudando e fazendo alguns projetos com React, Node e MongoDB.</h2>
 
