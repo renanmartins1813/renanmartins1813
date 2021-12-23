@@ -2,7 +2,7 @@
 
 ### Atualmente estou estudando e fazendo alguns projetos com React, Node e MongoDB.
 
-<div>
+
   <div align="center">
     <a href="https://github.com/renanmartins1813">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmartins1813&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
@@ -15,8 +15,9 @@
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/0SIGgMSETlsAAAAd/bear-dancing.gif?width=676&height=676">
   </div>
-</div>
+
  
   ##
  
