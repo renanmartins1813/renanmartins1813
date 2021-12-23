@@ -1,6 +1,6 @@
-# Eai, bicho.
+<h1>Eai, bicho. <img scr="https://www.reshot.com/preview-assets/icons/GZPQ6VA2KN/stuffed-bear-GZPQ6VA2KN.svg" width="50"></h1>
 
-### Atualmente estou estudando e fazendo alguns projetos com React, Node e MongoDB.
+<h2>Atualmente estou estudando e fazendo alguns projetos com React, Node e MongoDB.</h2>
 
 
   <div align="center">
